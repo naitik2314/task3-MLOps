@@ -1,0 +1,2 @@
+As the dataset is very large, I coouldn't compress it under 25 mb, which is the limit of GitHub, so instaead I have uploaded it to Google Drive and the link is:
+https://drive.google.com/drive/folders/1lefqNSziCZzG_bTy7FOKfnHWHFpatZOj?usp=sharing
